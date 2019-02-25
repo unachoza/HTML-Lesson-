@@ -14,3 +14,11 @@ form {
     border: 2px solid black;
     border-radius: 10px;
 }
+footer{
+    text-align: center;
+    text-decoration: none;
+    
+}
+a{
+    text-decoration: none;
+}
